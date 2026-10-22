@@ -18,12 +18,7 @@
 
 ## 👾 About Me
 
-Hey! I'm a **middle software developer** who enjoys building backends, tools and everything in between.
-
-- 💼 Main stack: **C#**, **Rust**, **TypeScript**, **Node.js**
-- 🦀 Digging deeper into **Rust** and systems programming
-- ⚡ Love clean architecture, performance and good tooling
-- 📫 Reach me on **Telegram** — [@itvertex](https://t.me/itvertex)
+Middle developer · C#, Rust, TypeScript, Node.js
 
 ## 🛠️ Tech Stack
 
