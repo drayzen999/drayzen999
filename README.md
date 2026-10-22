@@ -49,7 +49,11 @@ Hey! I'm a **middle software developer** who enjoys building backends, tools and
 
 <img src="https://streak-stats.demolab.com?user=drayzen999&theme=tokyonight&hide_border=true&background=0d1117&ring=A371F7&fire=00D4FF&currStreakLabel=A371F7" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drayzen999&bg_color=0d1117&color=a371f7&line=00d4ff&point=ffffff&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drayzen999/drayzen999/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drayzen999/drayzen999/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/drayzen999/drayzen999/output/snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
