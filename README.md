@@ -18,20 +18,9 @@
 
 ## 👾 About Me
 
-```rust
-struct Developer {
-    name: &'static str,
-    level: &'static str,
-    stack: [&'static str; 4],
-}
+Hey! I'm a **middle software developer** who enjoys building backends, tools and everything in between.
 
-const ME: Developer = Developer {
-    name:  "drayzen999",
-    level: "Middle",
-    stack: ["C#", "Rust", "TypeScript", "Node.js"],
-};
-```
-
+- 💼 Main stack: **C#**, **Rust**, **TypeScript**, **Node.js**
 - 🦀 Digging deeper into **Rust** and systems programming
 - ⚡ Love clean architecture, performance and good tooling
 - 📫 Reach me on **Telegram** — [@itvertex](https://t.me/itvertex)
