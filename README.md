@@ -16,11 +16,11 @@
 
 ---
 
-## 👾 About Me
+## About Me
 
 Middle developer · C#, Rust, TypeScript, Node.js
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Middle developer · C#, Rust, TypeScript, Node.js
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
